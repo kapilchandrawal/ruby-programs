@@ -8,4 +8,3 @@ end
 arr1 = [5,8,9,11]
 arr2 = [4,6,7,12,13]
 print merge(arr1, arr2)
-  
